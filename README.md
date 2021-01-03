@@ -76,7 +76,7 @@ version is LLDB 3.9 and above.
   - For example, on Ubuntu 16.04 you can install the prerequisites with
 
     ```bash
-    apt-get install lldb-4.0 liblldb-4.0-dev
+    apt-get install lldb liblldb-dev
     ```
 - FreeBSD
 
